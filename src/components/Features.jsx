@@ -17,7 +17,7 @@ const Features = () => {
             Technologies
           </h1>
           <p className={`${styles.pText} ${styles.whiteText}`}>
-            ProNef has been developed using a cross-platform technology, React
+            EKI-NFTs has been developed using a cross-platform technology, React
             Native.
           </p>
         </div>

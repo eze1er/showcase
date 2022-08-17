@@ -21,7 +21,7 @@ const App = () => {
       <Features />
       <SectionWrapper
         title="Deployment"
-        description="ProNef is built using Expo which runs natively on all user's devices. You can easily get your app into people's hands"
+        description="EKE-NFT is built using Expo which runs natively on all user's devices. You can easily get your app into people's hands"
         mockupImg={assets.feature}
         reverse
       />
